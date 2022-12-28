@@ -13,13 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: AEM 2011
+tagline: Statics - Spring 2023
+description: Spring 2023 Statics
+author: H. Mokhtarzadeh
+baseurl: '/umn-aem2011-spring2023' # the subpath of your site, e.g. /blog
+url: 'https://hamid-m.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: false 
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
@@ -28,10 +36,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  AEM:
+    - 'https://cse.umn.edu/aem'
 footer_content:
 
 # Collections for website data
