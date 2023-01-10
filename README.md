@@ -20,6 +20,10 @@ seo:
 - **Textbook:** F.P. Beer, E.R. Johnston, and D.F. Mazurek, Vector Mechanics for Engineers, 12th Edition, McGraw-Hill, 2019
   - *Earlier editions of the book can work for this course.*
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
+----
+## Announcements
 
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}

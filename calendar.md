@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Schedule
+description: Listing of tentative course schedule.
 ---
 
-# Calendar
-The calendar will be updated and links will go live as the course progresses.
+# Schedule
+Below is the tentative course schedule.  This page will be updated as the term progresses.
 
 {% for module in site.modules %}
 {{ module }}
