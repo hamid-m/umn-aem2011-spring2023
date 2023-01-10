@@ -1,23 +1,20 @@
 ---
-title: Basic Data Structures
+title: Week 2
 ---
+Jan. 23
+: 2D Force Equilibrium
+  : 2.3
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jan. 24
+: **DISC - QUIZ 1**{: .label .label-green} 
+  : solutions
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jan. 25
+: 3D Forces as Vectors
+  : 2.4
+: **HW 2**{: .label .label-green} PDF
+  : solutions
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Jan. 27
+: 3D Force Equilibrium
+  : 2.5

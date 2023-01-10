@@ -18,7 +18,7 @@ seo:
   - *(TBD)
 - **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
 - **Textbook:** F.P. Beer, E.R. Johnston, and D.F. Mazurek, Vector Mechanics for Engineers, 12th Edition, McGraw-Hill, 2019
-  - *Earlier editions of the book will can work fine for this course.*
+  - *Earlier editions of the book can work for this course.*
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),

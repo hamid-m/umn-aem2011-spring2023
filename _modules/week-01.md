@@ -1,23 +1,17 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
+Jan. 17
+: **No Discussion**{: .label .label-red}
+: **HW 1**{: .label .label-green} PDF
+  : solutions
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan. 18
+: Introduction to Statics, Units
+  : 1.1-1.6
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jan. 20
+: Forces as Vectors
+  : 2.1-2.2
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
