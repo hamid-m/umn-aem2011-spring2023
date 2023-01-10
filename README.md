@@ -1,29 +1,12 @@
----
-layout: home
-title: AEM 2011
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: AEM 2011 Statics Course
----
+# AEM 2011 Statics Spring 2023 Website
 
-# Welcome to Statics
+Resources for managing site:
+1. [GitHub Pages](https://pages.github.com/)
+2. [Jeykyll Quickstart](https://jekyllrb.com/docs/)
+  - Setup and serve site locally for testing.
+3. Course Template: [Just the Class](https://github.com/kevinlin1/just-the-class)
+4. Sample Course using variation of this theme:
+  - [Berkely Data100 Fall 2021](https://ds100.org/fa21/), [GitHub Repo](https://github.com/DS-100/fa21/tree/gh-pages), [How to update the website](https://www.youtube.com/watch?v=azPPK5aOcV0)
+  - [Stanford CS161](https://stanford-cs161.github.io/winter2021/)
 
-- **Instructor**
-  - Hamid Mokhtarzadeh, *(office TBD)*
-  - E-mail: mokh0006
-  - Office Hours: *TBD*
-- **Teaching Assistants and Graders**
-  - *(TBD)
-- **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
-- **Textbook:** F.P. Beer, E.R. Johnston, and D.F. Mazurek, Vector Mechanics for Engineers, 12th Edition, McGraw-Hill, 2019
-  - *Earlier editions of the book can work for this course.*
 
-----
-## Announcements
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %}

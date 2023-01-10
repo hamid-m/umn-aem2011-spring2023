@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+nav_order: 2
 description: Listing of tentative course schedule.
 ---
 
