@@ -22,6 +22,4 @@ seo:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
 
