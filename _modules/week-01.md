@@ -3,7 +3,7 @@ title: Week 1
 ---
 Jan. 17
 : **No Discussion**{: .label .label-red}
-: **HW 1**{: .label .label-green} PDF
+: **HW 1**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw01.pdf %}){:target="_blank"}
   : solutions
 
 Jan. 18
