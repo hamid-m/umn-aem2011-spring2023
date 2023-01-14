@@ -16,12 +16,6 @@ description: >-
 {:toc}
 
 ---
-## Course Information 
-- **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
-- **Discussions:** 
-  - Tu 01:25‑02:15 PM (AkerH 215)
-  - Tu 09:05‑09:55 AM (AkerH 313)
-
 ## Instructor
 
 - Hamid Mokhtarzadeh, *(office TBD)*
@@ -30,6 +24,12 @@ description: >-
 
 ## Teaching Assistants and Graders
 - *(TBD)
+
+## Course Information 
+- **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
+- **Discussions:** 
+  - Tu 01:25‑02:15 PM (AkerH 215)
+  - Tu 09:05‑09:55 AM (AkerH 313)
 
 ## Textbook
 This class material will be following the 12th edition of F.P. Beer, E.R. Johnston, and D.F. Mazurek, Vector Mechanics for Engineers.  However, earlier editions of the book can also work for this course.
@@ -46,7 +46,7 @@ Students who successfully complete the course will demonstrate the following:
 5. An ability to solve static equilibrium problems involving friction.
 
 ## Homework and Quizzes
-Recommended homework problems will be posted weekly on the course website. You should solve as many of these problems as possible to improve your understanding of the material. You are encouraged to contact the instructor and/or the TAs with any questions. You are also free to work together with your classmates on the homework, however you should be able to solve the problems on your own. Solutions will be posted but the homeworks will not be collected. Instead, a short quiz will be given at the beginning of each recitation section. The quiz problem will be based (with minor changes) on one of the homework problems from the previous week. There will be 11 quizzes throughout the semester. Each quiz will be worth 2% of your total grade and your quiz score will only be counted if it is greater than your final exam score. The contribution of the quizzes to your final grade will be:
+Recommended homework problems will be posted weekly on the course website. You should solve as many of these problems as possible to improve your understanding of the material. You are encouraged to contact the instructor and/or the TAs with any questions. You are also free to work together with your classmates on the homework, however you should be able to solve the problems on your own. Solutions will be posted but the homework will not be collected. Instead, a short quiz will be given at the beginning of each recitation section. The quiz problem will be based (with minor changes) on one of the homework problems from the previous week. There will be 11 quizzes throughout the semester. Each quiz will be worth 2% of your total grade and your quiz score will only be counted if it is greater than your final exam score. The contribution of the quizzes to your final grade will be:
 
 ![Quiz Grade Equation]({{ site.baseurl }}{% link /assets/quiz-eqn.png %})
 
@@ -55,7 +55,7 @@ The above grading policy means that it will not adversely affect your final grad
 ## Exams
 There will be two 50 minute in-class exams and one final exam. All exams will be closed note and closed book except for one 8.5 × 11 sheet (front and back) of notes. You will not be allowed to have any books or class notes in the classroom on exam day. Exams cannot be made up without a valid, documented excuse (e.g. letter from doctor).
 
-## Grading:
+## Grading
 Grades will be weighted as follows: 
 
 | Item    | Percentage |
@@ -89,11 +89,11 @@ submit your request for a regrade in writing to the TA. You have one week to dea
 grade will be final if no request is made within one week. When disputing a grade, be aware that your work
 will be reexamined and as a result your grade can be reduced as well as increased.
 
-## Electronic Devices:
+## Electronic Devices
 During quizzes/exams you may only use a simple calculator that does not communicate in any wireless manner.
 Pagers, cell phones, and all other communications devices must be turned off during quizzes/exams.
 
-## Scholastic Honesty:
+## Scholastic Honesty
 Cheating is completely unacceptable. University policies on scholastic conduct (see link) will be strictly enforced.
 - [Student Code of Conduct](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Student_Conduct_Code.pdf){:target="_blank"}
 
