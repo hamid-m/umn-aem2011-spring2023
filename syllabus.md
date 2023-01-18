@@ -18,12 +18,15 @@ description: >-
 ---
 ## Instructor
 
-- Hamid Mokhtarzadeh, *(office TBD)*
+- Hamid Mokhtarzadeh
 - E-mail: mokh0006
-- Office Hours: *TBD*
+- Office: 205 Akerman Hall
+- Office Hours: MW 10:30 AM - 12:00 PM
 
-## Teaching Assistants and Graders
-- *(TBD)
+## Teaching Assistant
+- Alex Zhu
+- E-mail: zhux0533
+- Office Hours (AkerH 130A): Tuesdays 10:00 AM - 12:00 PM
 
 ## Course Information 
 - **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
