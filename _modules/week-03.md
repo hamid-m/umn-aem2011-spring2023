@@ -14,7 +14,7 @@ Jan. 31
 Feb. 1
 : Forces and Moments
   : 3.1 (cont.)
-: **HW 3**{: .label .label-green} PDF
+: **HW 3**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw03.pdf %}){:target="_blank"}
   : solutions
 
 Feb. 3
