@@ -15,7 +15,7 @@ Feb. 1
 : Forces and Moments
   : 3.1 (cont.)
 : **HW 3**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw03.pdf %}){:target="_blank"}
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw03-solns.pdf %}){:target="_blank"}
 
 Feb. 3
 : Moment About an Axis
