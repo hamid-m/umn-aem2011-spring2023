@@ -9,7 +9,7 @@ Jan.30
 
 Jan. 31
 : **DISC - QUIZ 2**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz02-soln.pdf %}){:target="_blank"}
 
 Feb. 1
 : Forces and Moments
