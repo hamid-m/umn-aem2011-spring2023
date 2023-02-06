@@ -7,7 +7,7 @@ Jan. 23
 
 Jan. 24
 : **DISC - QUIZ 1**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz02-soln.pdf %}){:target="_blank"}
 
 Jan. 25
 : 3D Forces as Vectors
