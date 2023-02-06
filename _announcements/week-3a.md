@@ -1,7 +1,7 @@
 ---
 title: Office Hours Cancelled & Discussion Adjustment
 week: 3
-date: 2022-01-30
+date: 2023-01-30
 ---
 
 1. Tomorrow's discussion will be taught by Dr. Mokhtarzadeh.

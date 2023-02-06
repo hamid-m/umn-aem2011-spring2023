@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2022-01-18
+date: 2023-01-18
 ---
 
 1. HW 1 updated and posted.

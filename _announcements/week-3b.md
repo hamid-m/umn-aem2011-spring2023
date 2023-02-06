@@ -1,7 +1,7 @@
 ---
 title: Week 3 Announcement
 week: 3
-date: 2022-02-01
+date: 2023-02-01
 ---
 
 1. HW 3 is posted.
