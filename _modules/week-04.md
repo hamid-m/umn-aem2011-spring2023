@@ -13,7 +13,7 @@ Feb. 7
 Feb. 8
 : Simplify to a Force-Couple System
   : 3.4 
-: **HW 4**{: .label .label-green} PDF
+: **HW 4**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw04.pdf %}){:target="_blank"}
   : solutions
 
 Feb. 10
