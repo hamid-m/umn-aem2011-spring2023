@@ -13,7 +13,7 @@ Feb. 14
 Feb. 15
 : Body Equilibrium 2D
   : 4.1 (cont.)
-: **HW 5**{: .label .label-green} PDF
+: **HW 5**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw05.pdf %}){:target="_blank"}
   : solutions
 
 Feb. 17
