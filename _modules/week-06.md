@@ -7,7 +7,7 @@ Feb. 20
 
 
 Feb. 21
-: **DISC - QUIZ 5**{: .label .label-green} 
+: **DISC - QUIZ 5**{: .label .label-green} (prob. from *EXAM 1 SAMPLES*)
   : solutions
 
 Feb. 22

@@ -19,3 +19,14 @@ Feb. 15
 Feb. 17
 : Special Cases (2 & 3 Force Bodies)
   : 4.2
+: **EXAM 1 SAMPLES**{: .label .label-black}
+: [2019]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2019.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2019-solns.pdf %}){:target="_blank"}
+: [2014]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2014.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2014-solns.pdf %}){:target="_blank"}
+: [2013]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2013.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam1-sample-2013-solns.pdf %}){:target="_blank"}
+
+
+
+
