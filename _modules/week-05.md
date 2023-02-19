@@ -14,7 +14,7 @@ Feb. 15
 : Body Equilibrium 2D
   : 4.1 (cont.)
 : **HW 5**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw05.pdf %}){:target="_blank"}
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw05-solns.pdf %}){:target="_blank"}
 
 Feb. 17
 : Special Cases (2 & 3 Force Bodies)
