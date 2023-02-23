@@ -8,7 +8,7 @@ Feb. 13
 
 Feb. 14
 : **DISC - QUIZ 4**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz04-soln.pdf %}){:target="_blank"}
 
 Feb. 15
 : Body Equilibrium 2D
