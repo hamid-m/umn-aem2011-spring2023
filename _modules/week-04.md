@@ -8,7 +8,7 @@ Feb. 6
 
 Feb. 7
 : **DISC - QUIZ 3**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz03-soln.pdf %}){:target="_blank"}
 
 Feb. 8
 : Simplify to a Force-Couple System
