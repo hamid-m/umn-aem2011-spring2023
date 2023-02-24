@@ -13,9 +13,11 @@ Feb. 21
 Feb. 22
 : Examples 
   : 4.3 (cont.)
-: **HW 6**{: .label .label-green} PDF
-  : solutions
 
 Feb. 24
 : **EXAM 1**{: .label .label-black}(Chap. 1-4) 
   : solutions 
+: **HW 6**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw06.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw06-solns.pdf %}){:target="_blank"}
+
+
