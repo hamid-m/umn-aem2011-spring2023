@@ -16,7 +16,7 @@ Feb. 22
 
 Feb. 24
 : **EXAM 1**{: .label .label-black}(Chap. 1-4) 
-  : solutions 
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam1-solns.pdf %}){:target="_blank"}
 : **HW 6**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw06.pdf %}){:target="_blank"}
   : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw06-solns.pdf %}){:target="_blank"}
 
