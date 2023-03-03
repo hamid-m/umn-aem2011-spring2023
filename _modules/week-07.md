@@ -14,7 +14,7 @@ Mar. 1
 : Planar Centroids 
   : 5.1
 : **HW 7**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw07.pdf %}){:target="_blank"}
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw07-solns.pdf %}){:target="_blank"}
 
 Mar. 3
 : Centroids 
