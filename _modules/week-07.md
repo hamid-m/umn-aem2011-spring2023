@@ -8,7 +8,7 @@ Feb. 27
 
 Feb. 28
 : **DISC - QUIZ 6**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz06-soln.pdf %}){:target="_blank"}
 
 Mar. 1
 : Planar Centroids 
