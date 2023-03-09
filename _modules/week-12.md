@@ -6,7 +6,7 @@ Apr. 10
   : 7.3 (cont.)
 
 Apr. 11
-: **DISC - QUIZ 11**{: .label .label-green} 
+: **DISC - QUIZ 11**{: .label .label-green} (prob. from *EXAM 2 SAMPLES*)
   : solutions
 
 Apr. 12
