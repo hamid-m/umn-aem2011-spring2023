@@ -8,7 +8,7 @@ Mar. 13
 
 Mar. 14
 : **DISC - QUIZ 7**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz07-soln.pdf %}){:target="_blank"}
 
 Mar. 15
 : Applications of Centroids 
