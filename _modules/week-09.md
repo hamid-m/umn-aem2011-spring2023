@@ -13,7 +13,7 @@ Mar. 21
 Mar. 22
 : Truss Analysis
   : 6.1 C
-: **HW 9**{: .label .label-green} PDF
+: **HW 9**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw09.pdf %}){:target="_blank"}
   : solutions
 
 Mar. 24 
