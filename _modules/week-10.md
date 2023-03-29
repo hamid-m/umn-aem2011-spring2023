@@ -12,8 +12,8 @@ Mar. 28
 Mar. 29
 : Machines
   : 6.4
-: **HW 10**{: .label .label-green} PDF
-  : solutions
+: **HW 10**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw10.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw10-solns.pdf %}){:target="_blank"}
 
 Mar. 31 
 : Internal Forces
