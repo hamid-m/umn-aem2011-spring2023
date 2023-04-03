@@ -20,8 +20,8 @@ Apr. 4
 Apr. 5
 : Examples
   : 7.2 (cont.)
-: **HW 11**{: .label .label-green} PDF
-  : solutions
+: **HW 11**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw11.pdf %}){:target="_blank"}
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw11-solns.pdf %}){:target="_blank"}
 
 Apr. 7
 : Relation Among Load, Shear, and Bending
