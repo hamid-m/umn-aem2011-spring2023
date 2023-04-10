@@ -8,7 +8,7 @@ Mar. 20
 
 Mar. 21
 : **DISC - QUIZ 8**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz08-soln.pdf %}){:target="_blank"}
 
 Mar. 22
 : Truss Analysis
