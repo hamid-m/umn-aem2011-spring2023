@@ -7,7 +7,7 @@ Apr. 3
 
 Apr. 4
 : **DISC - QUIZ 10**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz10-soln.pdf %}){:target="_blank"}
 : **EXAM 2 SAMPLES**{: .label .label-black}
 : [2019]({{ site.baseurl }}{% link /assets/pdfs/exam2-sample-2019.pdf %}){:target="_blank"}
   : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam2-sample-2019-solns.pdf %}){:target="_blank"}
