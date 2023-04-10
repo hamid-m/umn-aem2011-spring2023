@@ -6,7 +6,7 @@ Apr. 24
   : 8.2 (cont.)
 
 Apr. 25
-: **DISC - QUIZ 11**{: .label .label-green} 
+: **DISC - QUIZ 13**{: .label .label-green} 
   : solutions
 
 Apr. 26
