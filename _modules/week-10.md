@@ -7,7 +7,7 @@ Mar. 27
 
 Mar. 28
 : **DISC - QUIZ 9**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz09-soln.pdf %}){:target="_blank"}
 
 Mar. 29
 : Machines
