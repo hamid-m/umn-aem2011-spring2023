@@ -11,6 +11,7 @@ Apr. 11
 
 Apr. 12
 : **EXAM 2**{: .label .label-blue} (Chap. 5-7)
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/exam2-solns.pdf %}){:target="_blank"}
 : **HW 12**{: .label .label-green} [PDF]({{ site.baseurl }}{% link /assets/pdfs/hw12.pdf %}){:target="_blank"}
   : [solutions]({{ site.baseurl }}{% link /assets/pdfs/hw12-solns.pdf %}){:target="_blank"}
 
