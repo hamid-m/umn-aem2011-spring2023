@@ -7,7 +7,7 @@ Apr. 24
 
 Apr. 25
 : **DISC - QUIZ 13**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz13-soln.pdf %}){:target="_blank"}
 
 Apr. 26
 : Moments of Inertia
