@@ -7,7 +7,7 @@ Apr. 17
 
 Apr. 18
 : **DISC - QUIZ 12**{: .label .label-green} 
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz12-soln.pdf %}){:target="_blank"}
 : **FINAL EXAM SAMPLES**{: .label .label-black}
 : [2019]({{ site.baseurl }}{% link /assets/pdfs/final-exam-sample-2019.pdf %}){:target="_blank"}
   : [solutions]({{ site.baseurl }}{% link /assets/pdfs/final-exam-sample-2019-solns.pdf %}){:target="_blank"}
