@@ -7,7 +7,7 @@ Apr. 10
 
 Apr. 11
 : **DISC - QUIZ 11**{: .label .label-green} (prob. from *EXAM 2 SAMPLES*)
-  : solutions
+  : [solutions]({{ site.baseurl }}{% link /assets/pdfs/qz11-soln.pdf %}){:target="_blank"}
 
 Apr. 12
 : **EXAM 2**{: .label .label-blue} (Chap. 5-7)
